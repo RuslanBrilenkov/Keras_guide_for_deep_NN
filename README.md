@@ -3,3 +3,10 @@ In this repository, I am showing a step-by-step guide on how to create a custom 
 
 Firstly, we will learn how to load a famous cifar dataset. Secondly, we look into different types of the deep neural network (NN) architechtures, such as sequential and functional.
 
+Practically, in this guide, I walk you through the following steps:
+1. Importing the necessary libraries;
+2. Loading and pre-processing our first data set (CIFAR-10); 
+3. Deciding on NN architecture with detailed explanation of the possibilities;
+4. 
+
+
