@@ -7,6 +7,9 @@ Practically, in this guide, I walk you through the following steps:
 1. Importing the necessary libraries;
 2. Loading and pre-processing our first data set (CIFAR-10); 
 3. Deciding on NN architecture with detailed explanation of the possibilities;
-4. 
+4. Compiling our model;
+5. Training our model;
+6. Evaluating our model;
+7. (Bonus) visualization of our model.
 
 
