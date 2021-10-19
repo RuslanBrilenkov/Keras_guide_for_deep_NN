@@ -1,15 +1,30 @@
 # Keras_guide_for_deep_NN
-In this repository, I am showing a step-by-step guide on how to create a custom deep NN using Keras, a high-level neural network API, which is based on Tensorflow.
 
-Firstly, we will learn how to load a famous cifar dataset. Secondly, we look into different types of the deep neural network (NN) architechtures, such as sequential and functional.
+## Exploring and experimenting with various types of Neural Networks 
+## Classic NN, convolutional CNN, and improved CNN.
 
-Practically, in this guide, I walk you through the following steps:
-1. Importing the necessary libraries;
-2. Loading and pre-processing our first data set (CIFAR-10); 
-3. Deciding on NN architecture with detailed explanation of the possibilities;
-4. Compiling our model;
-5. Training our model;
-6. Evaluating our model;
-7. (Bonus) visualization of our model.
+I created this project for several reasons:
 
+1. to classify images by their types using state-of-the-art Machine Learning (ML) library, Keras;
+2. to explore various types of neural networks on hands-on examples;
+2. to explain the neural networks (NN) in Keras in intuitive way;
+3. to create a baseline guide for everyone interested in learning about deep NN.
+
+In other words, this project may be considered as a step-by-step guide for building custom NN using Kerasa high-level neural network API, (with a TensorFlow backend).
+
+---
+
+## This project consists of 3 complete parts:
+### Part 1. Building classic NN
+### Part 2. Building convolutional CNN
+### Part 3. Greatly improving CNN performance
+
+---
+
+# Contacts
+
+I you have any questions, suggestions, found an error, or would like to connect, here are the ways.
+
+[LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
+[Blog](https://ruslan-brilenkov.medium.com/)
 
