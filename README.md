@@ -25,6 +25,7 @@ In other words, this project may be considered as a step-by-step guide for build
 
 I you have any questions, suggestions, found an error, or would like to connect, here are the ways.
 
-[LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
-[Blog](https://ruslan-brilenkov.medium.com/)
+- [LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
+
+- [Blog](https://ruslan-brilenkov.medium.com/)
 
