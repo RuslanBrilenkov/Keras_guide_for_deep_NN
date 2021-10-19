@@ -25,7 +25,8 @@ In the next Part 3, I implement the discussed improvements, such as batch normal
 
 I you have any questions, suggestions, found an error, or would like to connect, here are the ways.
 
-[LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
-[Original article](https://medium.datadriveninvestor.com/convolutional-neural-networks-cnn-in-keras-tensorflow-step-by-step-guide-9961bdb73f15)
+- [LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
+
+- [Original article](https://medium.datadriveninvestor.com/convolutional-neural-networks-cnn-in-keras-tensorflow-step-by-step-guide-9961bdb73f15)
 
 

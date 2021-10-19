@@ -20,7 +20,8 @@ In the next Part 2, I build a convolutional neural network (CNN) from scratch in
 
 I you have any questions, suggestions, found an error, or would like to connect, here are the ways.
 
-[LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
-[Original article](https://medium.datadriveninvestor.com/practical-guide-to-keras-deep-neural-networks-nn-f21a7715124f)
+- [LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
+
+- [Original article](https://medium.datadriveninvestor.com/practical-guide-to-keras-deep-neural-networks-nn-f21a7715124f)
 
 
